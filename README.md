@@ -1,72 +1,127 @@
 <h1 align="center">Hi 👋, I'm Adarsh Prakash</h1>
-<h3 align="center">🚀 Open Source Contributor | 💻 Developer | 🎓 CS Student</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;Machine+Learning+Explorer;Backend+Developer;Building+Things+That+Matter;SymPy+Contributor" />
+</p>
+
+<p align="center">
+🚀 Open Source Contributor • 💻 Developer • 🎓 Computer Science Student
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Machine Learning & AI**
-- 🔭 Contributing to **SymPy,Hiperhealth,ffprime**
-- 💡 Interested in **Open Source, AI, Backend Systems**
-- ⚡ Fun fact: I love building projects and solving real problems
+- 🎓 Computer Science Student  
+- 🌱 Currently learning **Machine Learning & AI**  
+- 🔭 Contributing to **SymPy**, **Hiperhealth**, **FFPrime**  
+- 💡 Interested in **Open Source, AI Systems, Backend Engineering**  
+- ⚡ Love building useful systems and solving real problems  
 
 ---
 
-## 🚀 Tech Stack
+# 🧠 Current Focus
+
+
+Machine Learning
+AI Applications
+Backend Engineering
+Open Source Development
+System Design
+
+
+---
+
+# ⚙️ Tech Stack
 
 ### 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 🧰 Frameworks & Libraries
+
+(Add more anytime)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+---
+
+### 🛠 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Stats
+### ☁️ Future Tech I'm Exploring
+
+
+Docker
+Kubernetes
+Distributed Systems
+AI Infrastructure
+Cloud Architecture
+
+
+---
+
+# 🌍 Open Source Contributions
+
+Currently contributing to:
+
+- 🧮 **SymPy** — symbolic mathematics library  
+- 🏥 **Hiperhealth** — AI healthcare tools  
+- ⚛️ **FFPrime** — computational chemistry library  
+
+---
+
+# 🚀 Projects I Like Building
+
+- 🤖 AI Applications  
+- 🧠 ML Classification Systems  
+- ⚙️ Backend APIs  
+- 🔧 Developer Tools  
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adarshsharath&show_icons=true&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🌌 Cool Dev Vibes
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Adarshsharath&theme=tokyonight"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## 📈 Top Languages
+# 📬 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshsharath&layout=compact&theme=tokyonight"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
----
-
-## 🌟 Current Focus
-
-- 🧠 Machine Learning
-- 🤖 AI Applications
-- 📦 Open Source Contributions
-- ⚙️ Backend Development
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 ---
 
-## 📬 Connect With Me
+# ✨ Personal Motto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adarsh-prakash-6a364130b)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:adarshprakash2005@gmail.com)
+> Build things that matter.  
+> Learn continuously.  
+> Contribute openly.
 
 ---
-
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Adarshsharath&label=Profile%20views&color=0e75b6&style=flat"/>
